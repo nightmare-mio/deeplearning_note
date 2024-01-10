@@ -10,4 +10,5 @@
 ### Denoising Diffusion Probabilistic Models(去噪扩散概率模型)(简写:DDPM)
 > 从数据中得到图像，并逐步添加噪声。然后训练一个模型来预测每一步的噪声，并使用该模型生成图像。
 ### Denoising Diffusion Implicit Models(去噪扩散隐式模型)(简写:DDIM)
->
+### Latent Diffusion Models(潜在扩散模型)
+### Stable Diffusion(稳定扩散)
