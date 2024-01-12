@@ -4,6 +4,9 @@
 
 ## Generative Adversarial Networks(对抗神经网络算法)(简写:GAN)
 >+ 由生成网络与判别网络构成，需要训练两个网络，以两个网络进行对抗来达到不断学习。
+### GAN with deep convolutional network(深度卷积生成对抗网络)(简写:DCGAN)
+### Cycle GAN(循环生成对抗网络)(简写:DCGAN)
+### Wasserstein GAN
 
 ## Diffusion models(扩散模型)
 >+ 由前向过程和后向过程构成。
